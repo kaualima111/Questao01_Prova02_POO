@@ -1,0 +1,20 @@
+C:\Users\vitor\source\repos\wfaCaminhão\wfaCaminhão\bin\Debug\wfaCaminhão.exe.config
+C:\Users\vitor\source\repos\wfaCaminhão\wfaCaminhão\bin\Debug\wfaCaminhão.exe
+C:\Users\vitor\source\repos\wfaCaminhão\wfaCaminhão\bin\Debug\wfaCaminhão.pdb
+C:\Users\vitor\source\repos\wfaCaminhão\wfaCaminhão\obj\Debug\wfaCaminhão.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\wfaCaminhão\wfaCaminhão\obj\Debug\wfaCaminhão.Form1.resources
+C:\Users\vitor\source\repos\wfaCaminhão\wfaCaminhão\obj\Debug\wfaCaminhão.Properties.Resources.resources
+C:\Users\vitor\source\repos\wfaCaminhão\wfaCaminhão\obj\Debug\wfaCaminhão.csproj.GenerateResource.cache
+C:\Users\vitor\source\repos\wfaCaminhão\wfaCaminhão\obj\Debug\wfaCaminhão.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\wfaCaminhão\wfaCaminhão\obj\Debug\wfaCaminhão.exe
+C:\Users\vitor\source\repos\wfaCaminhão\wfaCaminhão\obj\Debug\wfaCaminhão.pdb
+C:\Users\patom\OneDrive\UFU 3° Periodo\POO\Prova 2\Base_Prova\wfaCaminhão\wfaCaminhão\wfaCaminhão\bin\Debug\wfaCaminhão.exe.config
+C:\Users\patom\OneDrive\UFU 3° Periodo\POO\Prova 2\Base_Prova\wfaCaminhão\wfaCaminhão\wfaCaminhão\bin\Debug\wfaCaminhão.exe
+C:\Users\patom\OneDrive\UFU 3° Periodo\POO\Prova 2\Base_Prova\wfaCaminhão\wfaCaminhão\wfaCaminhão\bin\Debug\wfaCaminhão.pdb
+C:\Users\patom\OneDrive\UFU 3° Periodo\POO\Prova 2\Base_Prova\wfaCaminhão\wfaCaminhão\wfaCaminhão\obj\Debug\wfaCaminhão.csproj.AssemblyReference.cache
+C:\Users\patom\OneDrive\UFU 3° Periodo\POO\Prova 2\Base_Prova\wfaCaminhão\wfaCaminhão\wfaCaminhão\obj\Debug\wfaCaminhão.Form1.resources
+C:\Users\patom\OneDrive\UFU 3° Periodo\POO\Prova 2\Base_Prova\wfaCaminhão\wfaCaminhão\wfaCaminhão\obj\Debug\wfaCaminhão.Properties.Resources.resources
+C:\Users\patom\OneDrive\UFU 3° Periodo\POO\Prova 2\Base_Prova\wfaCaminhão\wfaCaminhão\wfaCaminhão\obj\Debug\wfaCaminhão.csproj.GenerateResource.cache
+C:\Users\patom\OneDrive\UFU 3° Periodo\POO\Prova 2\Base_Prova\wfaCaminhão\wfaCaminhão\wfaCaminhão\obj\Debug\wfaCaminhão.csproj.CoreCompileInputs.cache
+C:\Users\patom\OneDrive\UFU 3° Periodo\POO\Prova 2\Base_Prova\wfaCaminhão\wfaCaminhão\wfaCaminhão\obj\Debug\wfaCaminhão.exe
+C:\Users\patom\OneDrive\UFU 3° Periodo\POO\Prova 2\Base_Prova\wfaCaminhão\wfaCaminhão\wfaCaminhão\obj\Debug\wfaCaminhão.pdb
